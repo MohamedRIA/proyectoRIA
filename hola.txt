@@ -1,5 +1,0 @@
-hola que tal	
-
-Modificaciones de las que no estoy seguro que vallan a funcionar
-
-digamos unas pruebas sobre una version estable que quiero cargar.
