@@ -45,9 +45,34 @@ html,body
 	padding-left:30px;
 	padding-top:20px;
 }
-
+.imagenes
+{
+	padding-left:30px;
+}
 
 h2,h3,h4,p
 {
 	margin-left:20px;
+}
+
+.inferior
+{
+	margin-top:100px;
+	width:50%;
+}
+
+hr
+{
+	height:3px;
+	border:0px;
+	color:#000;
+	background-color:#000;
+	padding-left:50px;
+}
+
+
+.inf
+{
+	 width:100px;
+	  border:0px;
 }
